@@ -1,65 +1,45 @@
-This repository contains materials related to [Bachelor's / Master's / PhD]* thesis of clients I worked for.
-*Institution*: [University of Lagos]  
-*Department*: [Business Aministration, Insurance]  
-*Degree*: [B.Sc., M.Sc.,]  
-*Completion Year*: [2024 / 2025]  
-*Supervisor*: [Confidential]
+This repository serves as an organized archive of *data analysis materials* and *statistical outputs* prepared for *four client thesis projects* (undergraduate and postgraduate level) at the *University of Lagos*.
 
-## 📑 Repository Structure
+1.  *Institution* — University of Lagos  
+2.  *Department* — Business Administration (with focus on Insurance)  
+3.  *Degree Levels* — B.Sc. and M.Sc.  
+4.  *Completion Years* — 2024 / 2025  
+5.  *Primary Role* — Providing quantitative data analysis support, including SPSS processing, reliability testing, regression analysis, and report preparation for client theses.
 
-The repository is organized by *client/case study* folders (likely representing different datasets, companies, respondents, experiments, or analysis phases). Each folder may contain:
+The work focuses on *quantitative survey-based research*, where the core objective was to *investigate relationships between variables* using statistical methods (primarily regression analysis in SPSS/PSPP). Each client provided their own survey data (likely collected via Google Forms or similar), with varying sample sizes.
 
-- Raw data files (.csv, .xlsx, etc.)
-- Processed/cleaned datasets
-- Analysis scripts (Excel, SPSS)
-- Supporting documents (Data Presentation/Analyses)
+### Key Features of the Work
 
-Current top-level structure:
-Thesis/
-client 1/ 
-client 2/
-client 3/
-client 4/      ← You are here
+1.  *Research Design* — Quantitative, survey-based  
+2.  *Main Analytical Tool* — IBM SPSS Statistics (or PSPP)  
+3.  *Core Analyses Performed*:
+  - Regression analysis (testing independent variables against dependent variables and vice versa)
+  - Reliability testing (e.g., Cronbach's Alpha for scale validation)
+  - Descriptive statistics and data presentation
+4.  *Outputs Delivered*:
+  - Narrative data presentation and analysis (in Microsoft Word)
+  - SPSS statistical results exported as PDF reports
 
-## 🎯 Research Objectives
+### Repository Organization
 
-- Primary Objective: The research objective was to find the relationship between variables. This was done using regression analysis on SPSS/PSPP while each of the independent variables were tested against the dependent varibles and vice versa. 
+Materials are grouped by *client* (anonymized as "client 1" through "client 4") to maintain privacy and ethical standards. Sensitive or personally identifiable information has been removed or redacted where necessary.
 
-## 🔍 Key Methodology
+Current folder contents include:
+1. *client 1* → Data presentation & analysis write-up (.docx)
+2.  *client 2* → Consolidated SPSS results (.pdf)
+3.  *client 3* → SPSS reliability test outputs (.pdf)
+4.  *client 4* → Full SPSS report / summary (.pdf)
 
-- *Research Design*: [Quantitative survey-based, Qualitative case study]
-- *Data Collection*: [e.g., Online questionnaires (Google Forms)]
-- *Sample Size / Population*: [sample sizes differ as regards the data provided by each client]
-- *Tools & Technologies*:
-  - Data analysis: [Excel / SPSS/PSPP]
-  - Statistical tests: [e.g., Regression analysis, ANOVA]
+This structure allows easy navigation to specific client deliverables and demonstrates a consistent workflow for thesis data analysis support.
 
-## 📥 How to Explore This Repository
+### Who This Repository Is For
 
-1. *Clone the repo*:
-   ```bash
-   git clone https://github.com/jubrilmichael389/Thesis.git
-Navigate into a client folder:
-cd "client 1"
-Look for:
-1. .xlsx / .csv → datasets
-2. .pdf / .docx → reports or outputs
-3. Sub-folders like raw, processed, figures
-Note: Some data may be anonymized or partially redacted for privacy and ethical compliance.
+- Students or researchers looking for examples of *SPSS output organization* and *regression-based thesis analysis* in business/insurance contexts  
+- Peers interested in how survey data is processed, tested for reliability, and reported  
+- Potential collaborators or clients seeking similar quantitative analysis assistance
 
-⚖️ License
-This repository is licensed under the MIT License (or choose: CC BY-NC-SA 4.0 for academic work, or All Rights Reserved if you prefer not to allow reuse).
-The thesis document itself may be subject to university copyright policies.
+Data files (raw .csv`/.xlsx`) are not included in this public view for confidentiality reasons. If you're a client or have a legitimate academic interest, feel free to contact me directly.
 
-🙏 Acknowledgments
-Participants / Companies who provided data: University of Lagos
+Feel free to explore, and reach out via the contact details below if you're working on similar quantitative research or need guidance on SPSS workflows
 
-📬 Contact
-GitHub: @jubrilmichael389
-1. LinkedIn: [https://www.linkedin.com/in/jubrilmichael?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
-2. Email: [jubrilmichael389@gmail.com]
-3. Institution: University of Lagos
 
-Feel free to reach out for discussions, collaborations, or if you're working on similar research!
-⭐ Star this repo if it helps inspire your own thesis work!
-Last updated: February 2026
