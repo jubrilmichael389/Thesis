@@ -52,7 +52,7 @@ This repository is licensed under the MIT License (or choose: CC BY-NC-SA 4.0 fo
 The thesis document itself may be subject to university copyright policies.
 
 🙏 Acknowledgments
-Participants / Companies who provided data: Odim Victor and co.
+Participants / Companies who provided data: University of Lagos
 
 📬 Contact
 GitHub: @jubrilmichael389
