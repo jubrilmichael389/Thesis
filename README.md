@@ -2,7 +2,7 @@ This repository contains materials related to [Bachelor's / Master's / PhD]* the
 *Institution*: [University of Lagos]  
 *Department*: [Business Aministration, Insurance]  
 *Degree*: [B.Sc., M.Sc.,]  
-*Completion Year*: [Year,2024 / 2025]  
+*Completion Year*: [2024 / 2025]  
 *Supervisor*: [Confidential]
 
 ## 📑 Repository Structure
