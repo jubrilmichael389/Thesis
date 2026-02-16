@@ -1,11 +1,9 @@
-This repository contains materials related to my *[Bachelor's / Master's / PhD]* thesis titled:  
-*"[Insert Full Thesis Title Here – e.g., 'Impact of Digital Marketing Strategies on Consumer Behavior in the Nigerian FMCG Sector']"*
-
-*Institution*: [Your University Name]  
-*Department*: [e.g., Computer Science / Business Administration / Data Science / etc.]  
-*Degree*: [e.g., B.Sc., M.Sc., etc.]  
-*Completion Year*: [Year, e.g., 2025 / 2026]  
-*Supervisor*: [Name of Supervisor, if you wish to include]
+This repository contains materials related to [Bachelor's / Master's / PhD]* thesis of clients I worked for.
+*Institution*: [University of Lagos]  
+*Department*: [Business Aministration, Insurance]  
+*Degree*: [B.Sc., M.Sc.,]  
+*Completion Year*: [Year,2024 / 2025]  
+*Supervisor*: [Confidential]
 
 ## 📑 Repository Structure
 
@@ -13,14 +11,15 @@ The repository is organized by *client/case study* folders (likely representing 
 
 - Raw data files (.csv, .xlsx, etc.)
 - Processed/cleaned datasets
-- Analysis scripts (Python, R, SPSS syntax, SQL, etc.)
-- Visualizations / charts
-- Interview transcripts, survey forms (anonymized)
-- Supporting documents or notes
+- Analysis scripts (Excel, SPSS)
+- Supporting documents (Data Presentation/Analyses)
 
 Current top-level structure:
-Thesis/ ├── client 1/          # [Brief description – e.g., Company A / Case Study 1 / Respondent Group 1] ├── client 2/          # [e.g., Company B / Experimental Group] ├── client 3/ ├── client 4/ └── README.md          ← You are here
-Future updates may include: literature review, methodology code, full results chapter exports, LaTeX source files, or defense slides.
+Thesis/
+client 1/ 
+client 2/
+client 3/
+client 4/      ← You are here
 
 ## 🎯 Research Objectives
 
