@@ -23,7 +23,7 @@ client 4/      ← You are here
 
 ## 🎯 Research Objectives
 
-- Primary Objective: The research objective was to find the relationship between variables using regression analysis on SPSS/PSPP 
+- Primary Objective: The research objective was to find the relationship between variables. This was done using regression analysis on SPSS/PSPP while each of the independent variables were tested against the dependent varibles and vice versa. 
 
 ## 🔍 Key Methodology
 
@@ -42,20 +42,24 @@ client 4/      ← You are here
 Navigate into a client folder:
 cd "client 1"
 Look for:
-.xlsx / .csv → datasets
-.pdf / .docx → reports or outputs
-Sub-folders like raw, processed, figures
+1. .xlsx / .csv → datasets
+2. .pdf / .docx → reports or outputs
+3. Sub-folders like raw, processed, figures
 Note: Some data may be anonymized or partially redacted for privacy and ethical compliance.
+
 ⚖️ License
 This repository is licensed under the MIT License (or choose: CC BY-NC-SA 4.0 for academic work, or All Rights Reserved if you prefer not to allow reuse).
 The thesis document itself may be subject to university copyright policies.
+
 🙏 Acknowledgments
 Participants / Companies who provided data: Odim Victor and co.
+
 📬 Contact
 GitHub: @jubrilmichael389
-LinkedIn: [https://www.linkedin.com/in/jubrilmichael?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
-Email: [jubrilmichael389@gmail.com]
-Institution: University of Lagos
+1. LinkedIn: [https://www.linkedin.com/in/jubrilmichael?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
+2. Email: [jubrilmichael389@gmail.com]
+3. Institution: University of Lagos
+
 Feel free to reach out for discussions, collaborations, or if you're working on similar research!
 ⭐ Star this repo if it helps inspire your own thesis work!
 Last updated: February 2026
